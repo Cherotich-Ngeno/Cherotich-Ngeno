@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there 👋,i'm Nelly
 
-<!--
-**Cherotich-Ngeno/Cherotich-Ngeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile! 😊
 
-Here are some ideas to get you started:
+-🔎 Data Scientist and Machine Learning engineer passionate about solving real-world problems!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📈 Experienced finance professional skilled in project management,Financial analysis, team building and client relations.
+
+- 👀 I’m interested in data science.
+
+### PROJECTS
+
+1. https://github.com/Cherotich-Ngeno/Movie-company-analysis-project
+
+2.https://github.com/Cherotich-Ngeno/King_County_House_Pricing_Analysis
+
+3.https://github.com/Cherotich-Ngeno/King_County_House_Pricing_Analysis
+
+### Languages and Tools
+
+![image](https://user-images.githubusercontent.com/85990318/185676296-aa2cbf3f-3e82-4db8-a805-7cddc99d2bbe.png)
+
