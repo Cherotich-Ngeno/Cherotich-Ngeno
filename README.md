@@ -8,11 +8,12 @@ Welcome to my Github profile! 😊
 
 ### PROJECTS
 
-1. [https://github.com/Cherotich-Ngeno/Movie-company-analysis-project 
-](https://github.com/Cherotich-Ngeno/Movie-company-analysis-project)
-2.King_County_House_Pricing_Analysis
+1.https://github.com/Cherotich-Ngeno/Movie-company-analysis-project
+
+2. King_County_House_Pricing_Analysis
 
 3.[https://github.com/Cherotich-Ngeno/Tanzania_Water_Pump_Analysis]
+
 ### Languages and Tools
 
 ![image](https://user-images.githubusercontent.com/85990318/185676296-aa2cbf3f-3e82-4db8-a805-7cddc99d2bbe.png)
