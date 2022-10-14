@@ -14,7 +14,7 @@ Welcome to my Github profile! 😊
 
 3. [Tanzania Water Pump Analysis](https://github.com/Cherotich-Ngeno/Tanzania_Water_Pump_Analysis)
 
-4.[Airbnb Project](https://github.com/Cherotich-Ngeno/Airbnb_Project)
+4. [Airbnb Project](https://github.com/Cherotich-Ngeno/Airbnb_Project)
 
 ### Languages and Tools
 
