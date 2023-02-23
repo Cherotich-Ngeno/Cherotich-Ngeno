@@ -4,7 +4,7 @@ Welcome to my Github profile! 😊
 
 - 🔎 Data Scientist and Machine Learning engineer passionate about solving real-world problems!
 
-- 📈 Experienced finance professional skilled in project management,Financial analysis, team building and client relations.
+- 📈 Experienced finance professional skilled in Data analysis,project management,Financial analysis, team building and client relations.
 
 ### PROJECTS
 
@@ -14,7 +14,9 @@ Welcome to my Github profile! 😊
 
 3. [Tanzania Water Pump Analysis](https://github.com/Cherotich-Ngeno/Tanzania_Water_Pump_Analysis)
 
-4. [Airbnb Project](https://github.com/Cherotich-Ngeno/Airbnb_Project)
+4. [Apple and Google products Twitter Sentiment Analysis](https://github.com/Cherotich-Ngeno/Analyzing-Twitter-Sentiments-for-Apple-and-Google-products)
+
+5. [Airbnb Project](https://github.com/Cherotich-Ngeno/Airbnb_Project)
 
 ### Languages and Tools
 
